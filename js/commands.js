@@ -1,14 +1,14 @@
-var youtube = "https://www.youtube.com/fknight/";
-var twitter = "https://www.twitter.com/forrestpknight/";
+var youtube = "https://www.youtube.com/Mechstrikesl/";
+var twitter = "https://www.twitter.com/";
 var password = "fkcodes";
-var linkedin = "https://www.linkedin.com/in/forrestpknight/";
-var instagram = "https://www.instagram.com/forrestpknight/";
-var github = "https://github.com/forrestknight/";
+var linkedin = "https://www.linkedin.com/in/";
+var instagram = "https://www.instagram.com/ebox@nt/";
+var github = "https://github.com/bit-x-team/";
 var email = 'mailto:forrest@fkcodes.com';
 
 whois = [
   "<br>",
-  "Hey, I'm Nethindu !👋",
+  "Hey, I'm Nethindu jithula podi eko😂!👋",
   "I'm a software engineer and content creator, who builds engaging websites like this one",
   "and makes YouTube videos about computer science & software engineering.",
   "After graduating with a Bachelor's in Computer Science, I worked professionally",
