@@ -69,7 +69,7 @@ help = [
 
 banner = [
   '<span class="index">ForrestKnight (FK) Not A Corporation. All knights reserved.</span>',
-  "         ___   ____",
+  "_______      ______   _______          ",
   "       /' --;^/ ,-_\\     \\ | /       ",
   "      / / --o\\ o-\\ \\\\   --(_)--   ",
   "     /-/-/|o|-|\\-\\\\|\\\\   / | \\   ______                          __     __ __       _       __    __   ",
