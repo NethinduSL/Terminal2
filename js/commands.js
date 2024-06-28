@@ -8,7 +8,7 @@ var email = 'mailto:forrest@fkcodes.com';
 
 whois = [
   "<br>",
-  "Hey, I'm Forrest!👋",
+  "Hey, I'm Nethindu !👋",
   "I'm a software engineer and content creator, who builds engaging websites like this one",
   "and makes YouTube videos about computer science & software engineering.",
   "After graduating with a Bachelor's in Computer Science, I worked professionally",
@@ -53,7 +53,7 @@ projects = [
 
 help = [
   "<br>",
-  '<span class="command">whois</span>          Who is Forrest?',
+  '<span class="command">whois</span>          Who is Nethindu ?',
   '<span class="command">whoami</span>         Who are you?',
   '<span class="command">video</span>          View YouTube videos',
   '<span class="command">social</span>         Display social networks',
@@ -68,7 +68,7 @@ help = [
 ];
 
 banner = [
-  '<span class="index">ForrestKnight (FK) Not A Corporation. All knights reserved.</span>',
+  '<span class="index">E Box Nethindu . All knights reserved.</span>',
   "_______      ______   _______          ",
   "|(  ____ \    (  ___ \ (  ___  )|\     /   ",
   "| (    \/    | (   ) )| (   ) |( \   / ) ",
@@ -76,10 +76,10 @@ banner = [
   "|  __)       |  __ (  | |   | |  ) _ (  ",
   "| (          | (  \ \ | |   | | / ( ) \ ",
   "| (____/\    | )___) )| (___) |( /   \ ) ",
-  "            |-(\\,__          /_/    \\____/_/  /_/   \\___/____/\\__/  /_/ |_/_/ /_/_/\\__, /_/ /_/\\__/ ",
-  "         ...|-|\\--,\\_....                                                         /____/    © 2022",
-  "      ,;;;;;;;;;;;;;;;;;;;;;;;;,.   ",
-  "~~,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
-  '<span class="color2">Welcome to my interactive web terminal.</span>',
+  "(_______/    |/ \___/ (_______)|/     \|",
+  "                                  © 2022",
+  "     ",
+  "",
+  '<span class="color2">Welcome to Nethindu😈s interactive web terminal.</span>',
   "<span class=\"color2\">For a list of available commands, type</span> <span class=\"command\">'help'</span><span class=\"color2\">.</span>",
 ];
