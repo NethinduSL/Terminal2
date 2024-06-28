@@ -68,7 +68,7 @@ help = [
 ];  
 
 banner = [
-  '<span class="index">ForrestKnight (FK) Not A Corporation. All knights reserved.</span>',
+  '<span class="index">Nethindu  (FK) Not A Corporation. All knights reserved.</span>',
   "░▒▓████████▓▒░             ░▒▓███████▓▒░   ░▒▓██████▓▒░  ░▒▓█▓▒░░▒▓█▓▒░",
   "░▒▓█▓▒░                    ░▒▓█▓▒░░▒▓█▓▒░ ░▒▓█▓▒░░▒▓█▓▒░ ░▒▓█▓▒░░▒▓█▓▒░",
   "░▒▓█▓▒░                    ░▒▓█▓▒░░▒▓█▓▒░ ░▒▓█▓▒░░▒▓█▓▒░ ░▒▓█▓▒░░▒▓█▓▒░",
@@ -78,8 +78,6 @@ banner = [
   "░▒▓████████▓▒░             ░▒▓███████▓▒░   ░▒▓██████▓▒░  ░▒▓█▓▒░░▒▓█▓▒░",
   " ",
   "                                                                       © 2024",
-  "      ,;;;;;;;;;;;;;;;;;;;;;;;;,.   ",
-  "~~,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
-  '<span class="color2">Welcome to my interactive web terminal.</span>',
+  '<span class="color2">Welcome to Nethindu's interactive web terminal.</span>',
   "<span class=\"color2\">For a list of available commands, type</span> <span class=\"command\">'help'</span><span class=\"color2\">.</span>",
 ];
