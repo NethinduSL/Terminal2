@@ -4,8 +4,8 @@ body {
   min-height: 99%;
   width: 100%;
   min-width: 550px;
-  color: #519975;
-  background: #211D1B;
+  color: #53bffc;
+  background: #000000;
   font-family: cursor, monospace;
   overflow-x: hidden;
 }
@@ -60,8 +60,8 @@ b {
   opacity: 0;
 }
 #liner::before {
-  color: #519975;
-  content: "visitor@fkcodes.com:~$";
+  color: #53bffc;
+  content: "😈@Ebox.free.nf:~$";
 }
 #liner.password::before {
   content: "Password:";
@@ -103,7 +103,7 @@ p {
   color: #DCDCCC;
 }
 .color2 {
-  color: #B89076;
+  color: #FFFFFF;
 }
 .command {
   color: #73ABAD;
@@ -128,4 +128,14 @@ a:hover {
 }
 a:focus {
   outline: 0;
+}
+.but{
+  width: 100px;
+  padding: 2px;
+  background-color:black;
+  color: white;
+  border-width: 2px;
+  border-radius: 4px;
+  cursor: pointer;
+  border-color: white;
 }
