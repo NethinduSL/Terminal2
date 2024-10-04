@@ -177,7 +177,11 @@ function commander(cmd) {
             loopLines(contact, "color2 margin", 80);
             break;   
       
-      
+
+            case "git":
+            liner.classList.add("password");
+            pw = true;
+            break;
       
         default:
             addLine('<span class="inherit">Command not found. For a list of commands, type <span class="command">\'menu\'</span>.</span>', "error", 100);
