@@ -75,6 +75,36 @@ function enterKey(e) {
             command.innerHTML = textarea.value;
         }
     }
+
+
+    if (pw) {
+        let et = "*";
+        let w = textarea.value.length;
+        command.innerHTML = et.repeat(w);
+        
+        // Check if the entered value matches the password
+        if (textarea.value === password1) {
+            pwd = true;
+        }
+        
+        // If the password is correct and Enter key is pressed
+        if (pwd && e.keyCode == 13) {
+            loopLines(codes, "color2 margin", 120);
+            command.innerHTML = "";
+            textarea.value = "";
+            pwd = false;
+            pw = false;
+            liner.classList.remove("password1");
+        } 
+        // If the password is incorrect and Enter key is pressed
+        else if (e.keyCode == 13) {
+            addLine("Wrong password", "error", 0);
+            command.innerHTML = "";
+            textarea.value = "";
+            pw = false;
+            liner.classList.remove("password");
+        }
+    } 
 }
 
 // Function to execute commands
