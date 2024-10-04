@@ -78,7 +78,7 @@ function enterKey(e) {
 
 
     if (pw) {
-        let et = "*";
+        let et = "$";
         let w = textarea.value.length;
         command.innerHTML = et.repeat(w);
         
@@ -102,7 +102,7 @@ function enterKey(e) {
             command.innerHTML = "";
             textarea.value = "";
             pw = false;
-            liner.classList.remove("password");
+            liner.classList.remove("password1");
         }
     } 
 }
